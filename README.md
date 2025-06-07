@@ -1,4 +1,4 @@
-![gigi](https://github.com/user-attachments/assets/7cc61f7b-b00c-465c-b427-b85b9938b59c)
+![gigi](https://github.com/user-attachments/assets/5676d73d-fe29-4583-a818-4bee4be5949c)
 ### 🌻 Gigi
 
 ```toml![Uploading gigi.png…]()
