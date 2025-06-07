@@ -1,6 +1,11 @@
+![gigi](https://github.com/user-attachments/assets/7cc61f7b-b00c-465c-b427-b85b9938b59c)
+
+
+
 ### 🌻 Gigi
 
-```toml
+```toml![Uploading gigi.png…]()
+
 [self]
 name = "Gigi"
 age = 21
